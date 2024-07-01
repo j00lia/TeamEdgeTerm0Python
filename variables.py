@@ -24,7 +24,9 @@ print(f"A fun fact about me is that {funFact}")
 # **** Challenge 1: Problem 1 ****
 # Initalize the variables with your response for the three statements above! 
 # Hint: Also think about where you would initialize those variables
-
+name = 'Julia'
+grade = 11
+funFact = 'I enjoy going out on my own because it's peacefu'
 
 # **** Upchallenge! ****
 # Can you also print out the data type of the variables? 
